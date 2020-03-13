@@ -1,0 +1,34 @@
+C:\Users\User3\Desktop\wcf_chat\ChatClient2\bin\Release\ChatClient2.exe.config
+C:\Users\User3\Desktop\wcf_chat\ChatClient2\bin\Release\ChatClient2.exe
+C:\Users\User3\Desktop\wcf_chat\ChatClient2\bin\Release\ChatClient2.pdb
+C:\Users\User3\Desktop\wcf_chat\ChatClient2\obj\Release\ChatClient2.Form1.resources
+C:\Users\User3\Desktop\wcf_chat\ChatClient2\obj\Release\ChatClient2.Properties.Resources.resources
+C:\Users\User3\Desktop\wcf_chat\ChatClient2\obj\Release\ChatClient2.csproj.GenerateResource.cache
+C:\Users\User3\Desktop\wcf_chat\ChatClient2\obj\Release\ChatClient2.csproj.CoreCompileInputs.cache
+C:\Users\User3\Desktop\wcf_chat\ChatClient2\obj\Release\ChatClient2.exe
+C:\Users\User3\Desktop\wcf_chat\ChatClient2\obj\Release\ChatClient2.pdb
+C:\Users\User3\Desktop\wcf_chat\ChatClient2\obj\Release\ChatClient2.Manager.resources
+C:\Users\User3\Desktop\wcf_chat\ChatClient2\obj\Release\ChatClient2.Student.resources
+C:\Users\User3\Desktop\wcf_chat\ChatClient2\obj\Release\ChatClient2.Teacher.resources
+C:\Users\User3\Desktop\wcf_chat\ChatClient2\bin\Release\wcf_chat.dll
+C:\Users\User3\Desktop\wcf_chat\ChatClient2\bin\Release\wcf_chat.pdb
+C:\Users\User3\Desktop\wcf_chat\ChatClient2\bin\Release\wcf_chat.dll.config
+C:\Users\User3\Desktop\wcf_chat\ChatClient2\obj\Release\ChatClient2.csprojResolveAssemblyReference.cache
+C:\Users\User3\Desktop\wcf_chat\ChatClient2\obj\Release\ChatClient2.csproj.CopyComplete
+C:\Users\User3\Desktop\ДОРАБОТКА КУРСОВОЙ\wcf_chat\ChatClient2\bin\Release\ChatClient2.exe.config
+C:\Users\User3\Desktop\ДОРАБОТКА КУРСОВОЙ\wcf_chat\ChatClient2\bin\Release\ChatClient2.exe
+C:\Users\User3\Desktop\ДОРАБОТКА КУРСОВОЙ\wcf_chat\ChatClient2\bin\Release\ChatClient2.pdb
+C:\Users\User3\Desktop\ДОРАБОТКА КУРСОВОЙ\wcf_chat\ChatClient2\bin\Release\wcf_chat.dll
+C:\Users\User3\Desktop\ДОРАБОТКА КУРСОВОЙ\wcf_chat\ChatClient2\bin\Release\wcf_chat.pdb
+C:\Users\User3\Desktop\ДОРАБОТКА КУРСОВОЙ\wcf_chat\ChatClient2\bin\Release\wcf_chat.dll.config
+C:\Users\User3\Desktop\ДОРАБОТКА КУРСОВОЙ\wcf_chat\ChatClient2\obj\Release\ChatClient2.csprojResolveAssemblyReference.cache
+C:\Users\User3\Desktop\ДОРАБОТКА КУРСОВОЙ\wcf_chat\ChatClient2\obj\Release\ChatClient2.Form1.resources
+C:\Users\User3\Desktop\ДОРАБОТКА КУРСОВОЙ\wcf_chat\ChatClient2\obj\Release\ChatClient2.Manager.resources
+C:\Users\User3\Desktop\ДОРАБОТКА КУРСОВОЙ\wcf_chat\ChatClient2\obj\Release\ChatClient2.Properties.Resources.resources
+C:\Users\User3\Desktop\ДОРАБОТКА КУРСОВОЙ\wcf_chat\ChatClient2\obj\Release\ChatClient2.Student.resources
+C:\Users\User3\Desktop\ДОРАБОТКА КУРСОВОЙ\wcf_chat\ChatClient2\obj\Release\ChatClient2.Teacher.resources
+C:\Users\User3\Desktop\ДОРАБОТКА КУРСОВОЙ\wcf_chat\ChatClient2\obj\Release\ChatClient2.csproj.GenerateResource.cache
+C:\Users\User3\Desktop\ДОРАБОТКА КУРСОВОЙ\wcf_chat\ChatClient2\obj\Release\ChatClient2.csproj.CoreCompileInputs.cache
+C:\Users\User3\Desktop\ДОРАБОТКА КУРСОВОЙ\wcf_chat\ChatClient2\obj\Release\ChatClient2.csproj.CopyComplete
+C:\Users\User3\Desktop\ДОРАБОТКА КУРСОВОЙ\wcf_chat\ChatClient2\obj\Release\ChatClient2.exe
+C:\Users\User3\Desktop\ДОРАБОТКА КУРСОВОЙ\wcf_chat\ChatClient2\obj\Release\ChatClient2.pdb

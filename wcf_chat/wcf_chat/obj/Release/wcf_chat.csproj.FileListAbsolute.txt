@@ -1,0 +1,13 @@
+C:\Users\User3\Desktop\wcf_chat\wcf_chat\bin\Release\wcf_chat.dll.config
+C:\Users\User3\Desktop\wcf_chat\wcf_chat\bin\Release\wcf_chat.dll
+C:\Users\User3\Desktop\wcf_chat\wcf_chat\bin\Release\wcf_chat.pdb
+C:\Users\User3\Desktop\wcf_chat\wcf_chat\obj\Release\wcf_chat.csproj.CoreCompileInputs.cache
+C:\Users\User3\Desktop\wcf_chat\wcf_chat\obj\Release\wcf_chat.dll
+C:\Users\User3\Desktop\wcf_chat\wcf_chat\obj\Release\wcf_chat.pdb
+C:\Users\User3\Desktop\ДОРАБОТКА КУРСОВОЙ\wcf_chat\wcf_chat\bin\Release\wcf_chat.dll.config
+C:\Users\User3\Desktop\ДОРАБОТКА КУРСОВОЙ\wcf_chat\wcf_chat\bin\Release\wcf_chat.dll
+C:\Users\User3\Desktop\ДОРАБОТКА КУРСОВОЙ\wcf_chat\wcf_chat\bin\Release\wcf_chat.pdb
+C:\Users\User3\Desktop\ДОРАБОТКА КУРСОВОЙ\wcf_chat\wcf_chat\obj\Release\wcf_chat.csprojResolveAssemblyReference.cache
+C:\Users\User3\Desktop\ДОРАБОТКА КУРСОВОЙ\wcf_chat\wcf_chat\obj\Release\wcf_chat.csproj.CoreCompileInputs.cache
+C:\Users\User3\Desktop\ДОРАБОТКА КУРСОВОЙ\wcf_chat\wcf_chat\obj\Release\wcf_chat.dll
+C:\Users\User3\Desktop\ДОРАБОТКА КУРСОВОЙ\wcf_chat\wcf_chat\obj\Release\wcf_chat.pdb
